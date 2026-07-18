@@ -1,0 +1,12 @@
+# CMake build output
+/build/
+compile_commands.json
+
+# makepkg staging/output
+packaging/pkg/
+packaging/src/
+packaging/*.pkg.tar.zst
+packaging/*.log
+
+# Claude Code local session settings
+/.claude/

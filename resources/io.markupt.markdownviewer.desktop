@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Markdown Viewer
+GenericName=Markdown Viewer
+Comment=A lightweight Markdown viewer for KDE Plasma
+Exec=markdownviewer %f
+Icon=text-markdown
+Terminal=false
+StartupNotify=true
+Categories=Qt;KDE;Utility;TextEditor;
+MimeType=text/markdown;text/x-markdown;
